@@ -6,9 +6,7 @@
 // extra lines of my own to practice using System.out.println and
 // System.out.print in Java.
 
-import java.util.*;
-
-public class HW0_DevEnv {
+public class TestMain {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
@@ -28,9 +26,15 @@ public class HW0_DevEnv {
         System.out.println("together.");
     }
 }
-
 /*
-Paste the actual output from your run here.
+Hello World!
+This is my first Java program.
+I am learning how to set up my dev environment.
+Each println statement starts a new line.
+Java is the language for CS 141.
+I am ready for the homework ahead.
+These five words are together.
 */
+
 
 
