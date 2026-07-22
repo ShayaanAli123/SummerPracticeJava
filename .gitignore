@@ -1,0 +1,14 @@
+# Compiled Java bytecode — regenerated on every build
+bin/
+*.class
+
+# Packaged builds
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
